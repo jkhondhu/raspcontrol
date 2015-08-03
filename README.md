@@ -1,20 +1,18 @@
 # Raspcontrol
 
-Raspcontrol is a web control centre written in PHP for Raspberry Pi.
+Raspcontrol is a web based control centre written in PHP for the Raspberry Pi.
 
-This is a Fork of the orignal Raspcontrol by Bioshox - It appears the repo is no longer available...
+This is a Fork of the original Raspcontrol by Bioshox later harmon25 as it appears the original repo is no longer available.
 
 ***
-
 
 ## Installation
 
 You need a web server installed on your Raspberry Pi.
 
-
 If you are in a hurry, just clone the repository with:
 
-	git clone https://github.com/harmon25/raspcontrol.git raspcontrol
+	git clone https://github.com/jkhondhu/raspcontrol.git raspcontrol
 
 And create the json authentifation file `/etc/raspcontrol/database.aptmnt` with 740 rights and owned by www-data:
 
