@@ -86,7 +86,7 @@ if (isset($_GET['action']) && isset($_GET['username']) && isset($_GET['password'
     <head>
         <meta charset="UTF-8">
         <title>Raspcontrol</title>
-        <meta name="author" content="harmoN" />
+        <meta name="author" content="jkhondhu" />
         <meta name="robots" content="noindex, nofollow, noarchive" />
         <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
         <link rel="icon" type="image/png" href="img/favicon.ico" />
@@ -169,8 +169,8 @@ if (isset($_GET['action']) && isset($_GET['username']) && isset($_GET['password'
 
     <footer>
         <div class="container">
-            <p>Powered by <a href="https://github.com/harmon25/raspcontrol">Raspcontrol</a>.</p>
-            <p>Sources are available on <a href="https://github.com/harmon25/raspcontrol">Github</a>.</p>
+            <p>Powered by <a href="https://github.com/jkhondhu/raspcontrol">Raspcontrol</a>.</p>
+            <p>Sources are available on <a href="https://github.com/jkhondhu/raspcontrol">Github</a>.</p>
         </div>
     </footer>
 
